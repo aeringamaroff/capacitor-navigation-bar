@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [8.0.9](https://github.com/aeringamaroff/capacitor-navigation-bar/compare/8.0.7...8.0.9) (2025-03-20)
+
+
+### Bug Fixes
+
+* updated podspec ([444d2fa](https://github.com/aeringamaroff/capacitor-navigation-bar/commit/444d2fa2e058ceb9f06de5b28805c4fbd7b54d86))
+
 ### [8.0.7](https://github.com/aeringamaroff/capacitor-navigation-bar/compare/8.0.5...8.0.7) (2025-03-17)
 
 ### [8.0.5](https://github.com/aeringamaroff/capacitor-navigation-bar/compare/8.0.4...8.0.5) (2025-03-17)
