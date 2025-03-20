@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapgoCapacitorNavigationBar.podspec"
+    "AeringamaroffCapacitorNavigationBar.podspec"
   ],
   "author": "Cap-go <contact@capgo.app>",
   "license": "MIT",
